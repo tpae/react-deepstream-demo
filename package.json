@@ -1,0 +1,22 @@
+{
+  "name": "react-deepstream-demo",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "deepstream.io-client-js": "^2.2.1",
+    "moment": "^2.18.1",
+    "prop-types": "^15.5.10",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-scripts": "1.0.10",
+    "recompose": "^0.24.0",
+    "semantic-ui-css": "^2.2.11",
+    "semantic-ui-react": "^0.71.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
